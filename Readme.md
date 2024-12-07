@@ -1,7 +1,3 @@
-backend of a Hybrid Platform ( Youtube + Twitter ) 
-- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
-
----
 # Summary of this project
 
 This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.
